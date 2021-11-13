@@ -1,0 +1,37 @@
+dumps: "../dumps/"
+mlflow:
+  experiment_name:
+    mlia
+models:
+  - SVR
+  - Lasso
+GridSearchCV:
+  scoring: r2
+  cv: 4
+  n_jobs: 6
+
+grid_params:
+  Lasso:
+    lasso__alpha:
+      - 0.001
+      - 0.01
+      - 0.1
+      - 1
+      - 10
+    lasso__selection:
+      - cyclic
+      - random
+  SVR:
+    svr__kernel:
+      - linear
+      - poly
+      - rbf
+      - sigmoid
+    svr__C:
+      - 1
+      - 10
+      - 100
+    svr__gamma:
+      - 0.1
+      - 0.01
+

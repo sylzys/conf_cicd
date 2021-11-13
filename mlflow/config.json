@@ -1,0 +1,5 @@
+{
+    "subscription_id": "YOUR_AZURE_KEY",
+    "resource_group": "mlia",
+    "workspace_name": "mlia-wp"
+}

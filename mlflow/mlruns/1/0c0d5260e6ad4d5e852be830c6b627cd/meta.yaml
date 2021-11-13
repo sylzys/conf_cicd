@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/0c0d5260e6ad4d5e852be830c6b627cd/artifacts
+end_time: 1636716650012
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0c0d5260e6ad4d5e852be830c6b627cd
+run_uuid: 0c0d5260e6ad4d5e852be830c6b627cd
+start_time: 1636716642841
+status: 4
+user_id: Msi
+tags: []
+name: ''
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

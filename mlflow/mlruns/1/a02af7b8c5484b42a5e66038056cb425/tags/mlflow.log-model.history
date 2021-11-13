@@ -1,0 +1,1 @@
+[{"run_id": "a02af7b8c5484b42a5e66038056cb425", "artifact_path": "Lasso", "utc_time_created": "2021-11-12 11:51:22.691694", "flavors": {"python_function": {"model_path": "model.pkl", "loader_module": "mlflow.sklearn", "python_version": "3.8.8", "env": "conda.yaml"}, "sklearn": {"pickled_model": "model.pkl", "sklearn_version": "0.24.1", "serialization_format": "cloudpickle"}}}]

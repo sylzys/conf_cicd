@@ -1,0 +1,15 @@
+artifact_uri: mysql/1/e186b32bf0d84d0ba6b5f86e222e957a/artifacts
+end_time: 1636714108445
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e186b32bf0d84d0ba6b5f86e222e957a
+run_uuid: e186b32bf0d84d0ba6b5f86e222e957a
+start_time: 1636714101635
+status: 3
+user_id: Msi
+tags: []
+name: ''
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''
