@@ -7,7 +7,7 @@ The point of the talk is to demonstrate a simple end-to-end data project managem
 The tools used are:
 
 - [MLFlow](https://www.mlflow.org/docs/latest/index.html) (Model training and monitoring, experiments and runs)
-- [Poetry] (https://python-poetry.org/) with following packages:
+- [Poetry](https://python-poetry.org/) with following packages:
 
     - [flake8](https://flake8.pycqa.org/en/latest/) (pep8 standards)
     - [isort](https://pycqa.github.io/isort/) (imports sorting)
